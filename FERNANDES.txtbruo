@@ -1,0 +1,126 @@
+ #EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title=¨SPORTS¨,ESPN BRASIL  HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgVhqVArtII-4SUX9O5bWNKE8U7Zxgb5q-Yw&usqp=CAU" group-title=¨SPORTS¨,ESPN BRASIL  SD
+https://2202.janjua.pw:8088/live/aovivotudo_espnbr/playlist.m3u8?vidictid=185182610580&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=26
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title=¨SPORTS¨,ESPN1  HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title=¨SPORTS¨,ESPN1  SD
+https://2203.janjua.pw:8088/live/aovivotudo_espnmais/playlist.m3u8?vidictid=185187468545&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=28
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title=¨SPORTS¨,ESPN2  HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title=¨SPORTS¨,ESPN2  SD
+https://2204.janjua.pw:8088/live/aovivotudo_espn/playlist.m3u8?vidictid=185186178461&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=24
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSdBrmjCw7NF1RlKZpHtYwTWYf_c44tVWI-pErYUBRMBi1gq0IgoTssGQqVA&s=10" group-title=¨SPORTS¨,ESPN EXTRA  SD
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title=¨SPORTS¨,FOX SPORTS  DH
+https://live.esporteone.com/FOXSPORTS/video.m3u8?token=534863e6dda75b51ce56f35f50f3a459aedbfa54-d61d869706f3c839af412e6ead52e329-1600001016-1599997416&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title=¨SPORTS¨,FOX SPORTS  SD
+https://2d04.janjua.pw:8088/live/aovivotudo_foxsports/playlist.m3u8?vidictid=185186995659&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=30
+ 
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-Fox-Sports-2-ao-vivo-1.png" group-title=¨SPORTS¨,FOX SPORTS 2 HD
+https://live.esporteone.com/FOXSPORTS2/video.m3u8?token=6c955e0e8d99fb3bcf38850c8d81be165caf9030-144d11468ff4f9d70e41c0843febc96e-1600001180-1599997580&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-Fox-Sports-2-ao-vivo-1.png" group-title=¨SPORTS¨,FOX SPORTS 2  SD
+https://2202.janjua.pw:8088/live/aovivotudo_foxsports2/playlist.m3u8?vidictid=185185805525&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=32
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title=¨SPORTS¨,SPORTSTV  HD
+https://live.esporteone.com/SPORTV/video.m3u8?token=a68ef6d542312e40272b048fbd3441a2303a5ffd-42b92a6f3076697be6fa9dc57f0d45dd-1600001448-1599997848&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title=¨SPORTS¨,SPORTSTV  SD 
+https://2205.janjua.pw:8088/live/aovivotudo_sportv/chunklist_w1944647926.m3u8?id=34&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/SporTV_2_logo_2016.png" group-title=¨SPORTS¨,SPORTSTV2  HD
+https://live.esporteone.com/SPORTV2/video.m3u8?token=1e0019e5b3718c1ea9402869bfa5a9ff18111509-a48ceb75a34d7a534db6b8a6055d8acf-1600001533-1599997933&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/SporTV_2_logo_2016.png" group-title=¨SPORTS¨,SPORTSTV2  SD
+https://2d04.janjua.pw:8088/live/aovivotudo_sportv2/playlist.m3u8?vidictid=185189757782&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=36
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHC2SIuCigNOCbH_vqW08h5h_rku0-X-mwpuebTftwpDTbv2atSuPlw95&s=10" group-title=¨SPORTS¨,SPORTSTV3  HD
+https://live.esporteone.com/SPORTV3/video.m3u8?token=a08fb3a9f64ce87d4a221d63b4563ffefcfb88c9-2abf6f778f505a74939847d900788132-1600001686-1599998086&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHC2SIuCigNOCbH_vqW08h5h_rku0-X-mwpuebTftwpDTbv2atSuPlw95&s=10" group-title=¨SPORTS¨,SPORTSTV3  SD
+https://2202.janjua.pw:8088/live/aovivotudo_sportv3/playlist.m3u8?vidictid=185186727586&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=38
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title=¨SPORTS¨,PREMIE CLUBE HD
+https://live.esporteone.com/PREMIERECLUBES/video.m3u8?token=c1cc0e36f687baa36b713574778c61f94b8d665c-66a803dbce53efc4577f745c19f3428f-1600001333-1599997733&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title=¨SPORTS¨,PREMIE CLUBE  SD
+https://2203.janjua.pw:8088/live/aovivotudo_premier1/playlist.m3u8?vidictid=185182136784&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=80
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title=¨SPORTS¨,COMBATE
+https://2d04.janjua.pw:8088/live/aovivotudo_combate/playlist.m3u8?id=9&pk=9d110f41596c8473c026dea6fa2e659ff64879486c7e1472d64be278ba654377
+ 
+#EXTINF:-1 tvg-logo="https://megacanal.files.wordpress.com/2012/03/logo-band-sports.png" group-title=¨SPORTS¨,BANDE SPORTS
+https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1598807360&token=392d28e982aacd02c3840fb6afc311be
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bb/Logotipo_da_TV_Globo_Minas.png" group-title=¨ABERTA¨,GLOBO MINAS
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2G2otGXnZq/a/BZi1mdyXy2G2otGXnZq/720p/chunks.m3u8?ch=BZi1mdyXy2G2otGXnZq&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDAyMTM4NjYsImlhdCI6MTYwMDIwMzA2Niwic3ViIjoiZGVmYXVsdCMxNTYwMTYzNDkwIn0.4z4xwkmPMxH7Ai_RfwS4i-zl7LK0-Y7Ii9DLzbx7G6Q
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzzxJ-SwgCzt-oIZWr8NBoapovug-D3C5uVg&usqp=CAU" group-title=¨ABERTA¨,GLOBO SP
+https://live.esporteflix.com/GloboSP/video.m3u8?token=1c8a99265f4ed59945596495fba8199a67442d20-4ca28b8bfc18cde8b706ab3b51875699-1600002272-1599998672&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTahN3KcIMW3DsPaRm4U5HCMM_UuOF05aVYAQ&usqp=CAU" group-title=¨ABERTA¨,GLOBO RJ
+https://live.esporteflix.com/GLOBORJ/video.m3u8?token=684d0ce1e8b29e74ba05bdf14b521e6a02800891-91ca9dc8b49e1fcee3367280277a6269-1600002213-1599998613&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_xO4gqtJTBL8/TTTFF-vyXBI/AAAAAAAAAH8/Jh4RFgt3Zi8/s1600/sbt-tv-cidade-verde-logo1.jpg" group-title=¨ABERTA¨,SBT .MA 
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYf7jIRpHz7ePU27AFBzMg3O0m5WRoRIDtuA&usqp=CAU" group-title=¨ABERTA¨,RECORD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_7-sDKNtxvz-IktmNoFlB4C86-YPL-8xmwA&usqp=CAU" group-title=¨ABERTA¨,BANDE
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1918518384.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSzMc3JW1znSEqNOoom1p2p-RuiUah9n7ZrpZrlyhaACNpjS7laXnYU0g&s=10" group-title=¨ABERTA¨,REDETV
+https://tv.bahialink.net.br/media/n/BZfJAdK/a/BZfJAdK/720p/chunks.m3u8?ch=BZfJAdK&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTk0NDk0MjEsImlhdCI6MTU5OTQzODYyMSwic3ViIjoiZGVmYXVsdCMxNTYwMTYzNDkwIn0.e69gIEICMY5cvRs_wAJKivDMvNUc77JcmtNoRJvzCPo
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO8uWpf7nPMMBfcqXLbM4CKskib3-13qoHlw&usqp=CAU" group-title=¨ABERTA¨,TV GAZETA .MA
+https://stmv4.srvstm.com/wagner1168/wagner1168/chunklist_w63706251.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg" group-title=¨VARIEDADE¨,TNT HD
+https://2d02.janjua.pw:8088/live/aovivotudo_tnt/playlist.m3u8?vidictid=185182595689&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=62
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbmcjA4TmGIApZ2LKJCFainpGERBU20J2Hng&usqp=CAU" group-title=¨VARIEDADE¨,SPACE
+https://live.esporteflix.com/SPACE/video.m3u8?token=70c7196879679b275900a4a57f8b3345111aa0d6-11aa6d47a5457c0a4f9510419af3cb9c-1600003347-1599999747&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTU0tWYmC27rocChD6ucKFySumFEjMtxYmHCw&usqp=CAU" group-title=¨VARIEDADE¨,FX
+https://live.esporteflix.com/FX/video.m3u8?token=26909fb8961289d34bb655a9837b79b057798adf-24ff6ca6b441289c4162dfd91abfac9e-1600003193-1599999593&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPCCWl6i_dvFermteHBakjFKPdeF2EyTeKju7mKhk0tQPXqNeQ&usqp=CAU" group-title=¨VARIEDADE¨,DISNEP CHANNEL
+https://2204.janjua.pw:8088/live/aovivotudo_nick/playlist.m3u8?id=33&pk=d8ce2a70308b268acb5dfa49d0a268faf5fba915e2dcdda1cf243e87baa6b061
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuXJTEdUeV5D-VRd5txRVgLMqvNTpGISYDHQA22yIeEfxYr-FM&usqp=CAU" group-title=¨VARIEDADE¨,BOOMERANG
+https://streaming.belugacdn.link/a/hls1/boomerang.m3u8?expires=1598212770&token=f175682bc1fd41f2d67d1c84e1f44096
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7tTJiwowDrg3_aryRmq_EPxG7gywtEGHu0H_5FAvxAO-qtFqAgFwAgCz&s=10" group-title=¨VARIEDADE¨,VIVA HD
+https://2d04.janjua.pw:8088/live/aovivotudo_viva/playlist.m3u8?vidictid=185185159916&pk=a6100f03d41ca61540d4e436d23983d314d107ee66e12300fdf477b866522154&id=78
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFU8XeHgXCwxTcHOP4HxONE8XpAP5XCRLG2w&usqp=CAU" group-title=¨VARIEDADE¨,SEXY HOT
+http://live.redtraffic.net/cuckold.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhsHkxNWeSmDjzxXf6hJbdmF_KktOAr0yFTg&usqp=CAU" group-title=¨VARIEDADE¨,18XXXX
+http://live.redtraffic.net/anal.m3u8?anal
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0qDFx9UzxlPezhr1LolzY4NYAlbqvCo6L-Q&usqp=CAU" group-title=¨VARIEDADE¨,BRAZZZERS
+http://live.redtraffic.net/gangbang.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJMxp2O35qYaS1XkXT5V5vFaeoBmLhKecwY3aXTdoB6lIhT5bn&usqp=CAU" group-title=¨NOTICIA¨,GLOBONEWS HD
+https://live.esporteflix.com/GLOBONEWS/video.m3u8?token=1955c46a220f79e16270dbc77b22a085ced5eedd-0f6edcc27936b29b58c57f2d3dd67e20-1600003045-1599999445&remote=179.189.95.40
+ 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/11/bandnews-tv-arte-1-jornal-da-band-990x556.jpg?fit=990%2C556&ssl=1" group-title=¨NOTICIA¨,BANDENEWS HD
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1550764694.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzdw6-UMcpNHA7i4eRf-C-QCShIf5UZM1hCg&usqp=CAU" group-title=¨NOTICIA¨,RECORD NEWS HD
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyHh-PtlRu4JG1vO1RfeoINoBLz-BWxevlsA&usqp=CAU" group-title=¨NOTICIA¨,CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
